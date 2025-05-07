@@ -8,7 +8,7 @@ widespread; however, the effectiveness of these systems is
 hindered by human limitations. Research shows that continuous monitoring of CCTV footage leads to visual fatigue
 and a significant decrease in detection accuracy– leading
 to a failure rate of up to 83% after just 40 minutes of
-continuous monitoring [1]. These findings highlight a critical
+continuous monitoring. These findings highlight a critical
 need for automated tools for threat detection. This project
 uses deep learning techniques for detection of weapons from
 CCTV footage. Specifically, we explore YOLO frameworks to
